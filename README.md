@@ -2,14 +2,14 @@
 
 >This is a Ruby on Rails 5 Application that lets users to create their own portfolios.
 
-###Features
+### Features
 
 - Realtime chat engine
 - Blog
 - Portfolio
 - Drag and Drop interface
 
-###Code example
+### Code example
 
 ```ruby
 def my_great_method
